@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<a href="https://whatsapp.com/channel/0029VabS4KD8KMqeVXXmkG1D"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp_Canal-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://whatsapp.com/channel/0029VafzDDFBqbrEfwTDZ346"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp_Canal-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 > [!IMPORTANT]
@@ -25,10 +25,7 @@
 
 <p align="left">
 <a href="https://github.com/GataNina-Li" target="_blank"> <img src="https://i.imgur.com/qUBbRnJ.png" alt="YartexBot-MD" width="150"/> </a> 
- 
-- #### Clona YartexBot [`Aquí`](https://github.com/GataNina-Li/YartexBot-MD/fork)
-- #### Agregar/editar Owners [`aqui`](https://github.com/GataNina-Li/YartexBot-MD/blob/main/config.js)
-- #### Version de Baileys en el [`package.json`](https://github.com/GataNina-Li/YartexBot-MD/blob/main/package.json)
+
 </p>
 
 ***
